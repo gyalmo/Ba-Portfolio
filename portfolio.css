@@ -1,0 +1,40 @@
+h1{   text-align: center ; font-weight: bolder; font-family: 'Segoe UI' ; color: purple;
+}
+h2{
+     text-align: center; font-weight: bolder; font-family: 'Segoe UI' ;
+}
+
+h3{
+  text-align: left ; font-family: 'Segoe UI' ;
+;
+}
+
+h4{
+     text-align: left; font-family: 'Segoe UI' ;
+}
+
+h5{
+     text-align: rigt; font-family: 'Segoe UI' ;
+}
+
+b{
+     text-align: center;
+} 
+
+th{
+    text-align: center;
+}
+main{
+    text-align: center; font-weight: 900;
+}
+
+body {
+    background-color: whitesmoke ;}
+}
+table
+{
+    text-align: center; 
+}
+*{
+    color: black;
+}
